@@ -1,0 +1,9 @@
+localStorage.setItem("name1","salman");
+console.log(localStorage.getItem("name1"));
+localStorage.setItem("name2","ahamed");
+console.log(localStorage.getItem("name2"));
+localStorage.removeItem("name1","salman");
+localStorage.setItem("name1","salman");
+console.log(localStorage.getItem("name1"));
+localStorage.setItem("name3","vinoth");
+console.log(localStorage.getItem("name3"));
